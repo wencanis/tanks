@@ -1,0 +1,11 @@
+Rules of thumb
+
+- If there is way forward and no way to the sides, continue forward
+
+- If there is no way forward and way(s) to the sides, pick a side and go there
+
+- If there is no way forward or to the sides, but there is a way to the back, go back
+
+- If there is a way forward and a way to the sides, do a random and continue
+
+- If there is no way anywhere, do a random direction
